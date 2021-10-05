@@ -1,0 +1,4 @@
+https://stackoverflow.com/questions/21288/which-net-dependency-injection-frameworks-are-worth-looking-into
+IoC Container Benchmark - Performance comparison has performance and features comparison tables for 20+ products and keep them up-to-date.
+It recommends Simple Injector as shown in the below article.
+http://www.palmmedia.de/blog/2011/8/30/ioc-container-benchmark-performance-comparison
